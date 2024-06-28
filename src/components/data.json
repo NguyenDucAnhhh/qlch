@@ -1,10 +1,26 @@
-{
-  "compilerOptions": {
-    "target": "es2016",
-    "module": "commonjs",
-    "esModuleInterop": true,
-    "forceConsistentCasingInFileNames": true,
-    "strict": true,
-    "skipLibCheck": true
+[
+  {
+    "id": 1,
+    "name": "Mai Hồng Lĩnh",
+    "address": "47 Mỹ Đình, Nam Từ Liêm, Hà Nội",
+    "date": "2/15/2024"
+  },
+  {
+    "id": 2,
+    "name": "Diệp Xuân Hải",
+    "address": "28 Nguyễn Văn Lộc, Hà Đông, Hà Nội",
+    "date": "2/15/2024"
+  },
+  {
+    "id": 3,
+    "name": "Nguễn Tú Linh",
+    "address": "47 Mỹ Đình, Nam Từ Liêm, Hà Nội",
+    "date": "2/15/2024"
+  },
+  {
+    "id": 4,
+    "name": "Nguyễn Diệp Linh",
+    "address": "119 Vũ Hữu, Thanh Xuân, Hà Nội",
+    "date": "2/15/2024"
   }
-}
+]
